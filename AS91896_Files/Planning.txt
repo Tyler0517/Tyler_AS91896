@@ -1,0 +1,24 @@
+
+DEFINE (strike, ball, hit, double, triple, home_run, out)
+strike = 0
+ball = 0
+home_run = 0
+out = 0
+score = 0
+
+while outs less than 3
+user can keep playing
+
+import random
+
+if strike
+strike is +1
+
+if strikes =3
+out
+
+if ball
+ball is +1
+
+if ball = 4
+4 ball
